@@ -32,6 +32,10 @@ module.exports = {
                 text: '论坛',
                 link: 'https://discussions.nonebot.dev/'
             },
+            {
+                text: '赞助',
+                link: 'https://afdian.net/@nonebot'
+            },
         ]
     }
 }
