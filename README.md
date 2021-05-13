@@ -40,6 +40,8 @@ footerWrap:
   items:
   - title: 论坛
     link: https://discussions.nonebot.dev/
-  - title: "交流群 (QQ: 768887710)"
+  - title: "QQ 群 (768887710)"
     link: https://jq.qq.com/?_wv=1027&k=5OFifDh
+  - title: "Telegram 群"
+    link: https://t.me/joinchat/Ow7MSzaRDZAxM2Y1
 ---
