@@ -21,7 +21,7 @@ module.exports = {
         editLinks: false,
         nav: [
             {
-                text: '首页',
+                text: '主页',
                 link: '/'
             },
             // {
