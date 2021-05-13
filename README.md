@@ -20,7 +20,7 @@ features:
 - title: 高性能
   details: 采用异步 I/O，利用 WebSocket 进行通信，以获得极高的性能；同时，支持使用多账号同时接入，减少业务宕机的可能。
 footer: Copyright © 2021 NoneBot Team
-footerColumn: 2
+footerColumn: 3
 footerWrap: 
 - headline: 生态
   items:
@@ -30,6 +30,12 @@ footerWrap:
     link: https://github.com/nonebot/nonebot2
   - title: OneBot 标准
     link: https://onebot.page.moe/
+- headline: 资源
+  items:
+  - title: FAQ
+    link: https://discussions.nonebot.dev/13
+  - title: Awesome NoneBot
+    link: https://github.com/nonebot/awesome-nonebot
 - headline: 社区
   items:
   - title: 论坛

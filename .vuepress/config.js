@@ -24,10 +24,10 @@ module.exports = {
                 text: '首页',
                 link: '/'
             },
-            {
-                text: '应用案例',
-                link: '/cases.md'
-            },
+            // {
+            //     text: '应用案例',
+            //     link: '/cases.md'
+            // },
             {
                 text: '论坛',
                 link: 'https://discussions.nonebot.dev/'
