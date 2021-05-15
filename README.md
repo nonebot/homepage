@@ -33,7 +33,7 @@ footerWrap:
 - headline: 资源
   items:
   - title: FAQ
-    link: https://discussions.nonebot.dev/13
+    link: https://faq.nonebot.dev
   - title: Awesome NoneBot
     link: https://github.com/nonebot/awesome-nonebot
 - headline: 社区
