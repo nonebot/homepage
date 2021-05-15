@@ -105,6 +105,8 @@ NoneBot 社区有幸作为开源社区参与了本次活动，下面列出了目
 
 目前最常用的 OneBot 实现包括 go-cqhttp、onebot-kotlin、node-onebot 等，这些实现都各自重复实现了 Web 通信、消息解析、配置读写等功能，当社区中的开发者想针对一个新的聊天平台实现 OneBot 时，他们往往同样需要再次实现类似逻辑。我们希望使用 Rust 编写一个 libonebot 模块，该模块实现所有 OneBot 实现所共享的功能，从而方便其他开发者们使用 Rust 快速编写具体的 OneBot 实现。同时，我们希望借此项目在聊天机器人社区中推广 Rust 编程语言。
 
+> 注：这里的逻辑是 libonebot + 针对某聊天平台的对接代码 = 某聊天平台的 OneBot 实现，libonebot 要做的是让 OneBot 实现的开发者只需编写针对特定聊天平台的对接代码，而无需关心 OneBot 标准定义的通信方式、消息格式等。
+
 **难度**：高
 
 **产出要求**
@@ -123,6 +125,8 @@ NoneBot 社区有幸作为开源社区参与了本次活动，下面列出了目
 ### 实现自选语言版 libonebot
 
 目前最常用的 OneBot 实现包括 go-cqhttp、onebot-kotlin、node-onebot 等，这些实现都各自重复实现了 Web 通信、消息解析、配置读写等功能，当社区中的开发者想针对一个新的聊天平台实现 OneBot 时，他们往往同样需要再次实现类似逻辑。我们希望使用 Python、Go、Kotlin、Node、PHP、C#.NET 等主流语言（任选一个）编写 libonebot 模块，该模块实现所有 OneBot 实现所共享的功能，从而方便其他开发者们使用对应语言快速编写具体的 OneBot 实现。
+
+> 注：这里的逻辑是 libonebot + 针对某聊天平台的对接代码 = 某聊天平台的 OneBot 实现，libonebot 要做的是让 OneBot 实现的开发者只需编写针对特定聊天平台的对接代码，而无需关心 OneBot 标准定义的通信方式、消息格式等。
 
 **难度**：中
 
