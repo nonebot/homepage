@@ -24,10 +24,10 @@ module.exports = {
                 text: '主页',
                 link: '/'
             },
-            // {
-            //     text: '应用案例',
-            //     link: '/cases.md'
-            // },
+            {
+                text: '开源软件供应链点亮计划',
+                link: '/ospp.md'
+            },
             {
                 text: '论坛',
                 link: 'https://discussions.nonebot.dev/'
