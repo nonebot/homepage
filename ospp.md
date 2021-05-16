@@ -152,6 +152,8 @@ NoneBot 社区有幸作为开源社区参与了本次活动，下面列出了目
 
 **难度**：高
 
+**导师**：[@richardchien](https://github.com/richardchien)
+
 **产出要求**
 
 - 实现所有 OneBot 实现所共享的功能，包括 Web 通信、消息解析、配置读写等
@@ -172,6 +174,8 @@ NoneBot 社区有幸作为开源社区参与了本次活动，下面列出了目
 > 注：这里的逻辑是 libonebot + 针对某聊天平台的对接代码 = 某聊天平台的 OneBot 实现，libonebot 要做的是让 OneBot 实现的开发者只需编写针对特定聊天平台的对接代码，而无需关心 OneBot 标准定义的通信方式、消息格式等。
 
 **难度**：中
+
+**导师**：[@richardchien](https://github.com/richardchien)
 
 **产出要求**
 
