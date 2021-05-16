@@ -55,9 +55,31 @@ NoneBot 社区有幸作为开源社区参与了本次活动，下面列出了目
 
 ## NoneBot v2
 
+### NoneBot v2 自动化测试框架“NoneBug”
+
+在聊天机器人的开发过程中，一套自动化的测试机制是非常重要的，特别是对于 NoneBot 2 这类为大型机器人开发而设计的项目来说，需要手动测试每一个边际条件是非常痛苦的。我们希望能够开发一款基于 NoneBot 2 插件机制的自动化测试框架，为 NoneBot 2 用户提供一套易用便捷、高度灵活的自动化测试框架。
+
+**难度**：高
+
+**导师**：[@yanyongyu](https://github.com/yanyongyu)
+
+**产出要求**
+
+- 调研现有的 Python 和其它语言集成测试框架
+- 设计 NoneBug 的用户 API 和实现方式
+- 实现 NoneBug 自动化测试框架
+- 编写详细的使用文档
+
+**技术要求**
+
+- 熟悉 Python 编程语言及 asyncio 和 Type Hints
+- 了解 Git 基本用法
+- 了解 NoneBot v2 的基本原理和使用方式
+- 了解主流的 Python 自动化测试框架
+
 ### NoneBot v2 Telegram 适配器
 
-目前 NoneBot v2 已支持 OneBot、Mirai HTTP API、钉钉协议，社区反馈有更多的平台需求，希望能在 NoneBot v2 获得更多的跨平台支持，提高机器人的便携性。同时，我们也希望随着新平台加入，提升现有 NoneBot v2 核心代码的平台通用性。
+目前 NoneBot v2 已支持 OneBot、Mirai HTTP API、钉钉协议，社区反馈有更多的平台需求，希望能在 NoneBot v2 获得更多的跨平台支持，提高机器人的便携性。同时，我们也希望随着新平台加入，提升现有 NoneBot v2 核心代码的平台通用性。Telegram 是一款较为广泛使用的安全即时聊天软件，同时其官方提供了丰富的聊天机器人 API，因此我们希望为 NoneBot v2 编写一个 Telegram 适配器来支持 Telegram 机器人的开发。
 
 **难度**：中
 
@@ -65,8 +87,8 @@ NoneBot 社区有幸作为开源社区参与了本次活动，下面列出了目
 
 **产出要求**
 
-- 调研平台相关 API 以及 WebHook 等技术支持情况
-- 编写平台协议 API 适配并能够使用
+- 调研 Telegram Bot API 以及 WebHook 等官方接口
+- 编写 Telegram 适配器并能够使用
 - 代码遵守项目 Contributing 规范
 
 **技术要求**
@@ -76,13 +98,26 @@ NoneBot 社区有幸作为开源社区参与了本次活动，下面列出了目
 - 了解 Web 开发相关知识
 - 了解 Sphinx 等文档生成工具更佳
 
-### NoneBot v2 Discord 适配器
-
-同上。
-
 ### NoneBot v2 飞书适配器
 
-同上。
+目前 NoneBot v2 已支持 OneBot、Mirai HTTP API、钉钉协议，社区反馈有更多的平台需求，希望能在 NoneBot v2 获得更多的跨平台支持，提高机器人的便携性。同时，我们也希望随着新平台加入，提升现有 NoneBot v2 核心代码的平台通用性。飞书是目前企业用户广泛使用的即时聊天和协作软件，其官方提供了丰富的聊天机器人 API，因此我们希望为 NoneBot v2 编写一个飞书适配器来支持飞书机器人的开发。
+
+**难度**：中
+
+**导师**：[@yanyongyu](https://github.com/yanyongyu)
+
+**产出要求**
+
+- 调研飞书机器人 API 以及 WebHook 等官方接口
+- 编写飞书适配器并能够使用
+- 代码遵守项目 Contributing 规范
+
+**技术要求**
+
+- 熟悉 Python 编程语言及 asyncio 和 Type Hints
+- 了解 Git 基本用法
+- 了解 Web 开发相关知识
+- 了解 Sphinx 等文档生成工具更佳
 
 ## OneBot
 
