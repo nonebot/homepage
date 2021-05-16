@@ -16,6 +16,8 @@ NoneBot 社区有幸作为开源社区参与了本次活动，下面列出了目
 
 **难度**：低
 
+**导师**：[@cleoold](https://github.com/cleoold)
+
 **产出要求**
 
 - 修改“指南”文档和 aiocqhttp 文档中与旧的 QQ 机器人平台相关的部分
@@ -34,6 +36,8 @@ NoneBot 社区有幸作为开源社区参与了本次活动，下面列出了目
 目前 NoneBot v1 的文档中“API”部分是手动编写的，在更新代码接口的同时需要手动更新文档，可能造成文档与代码不匹配，形成额外的维护成本。我们希望将 API 文档改为直接编写在 Python docstring 中，通过工具自动生成 API 文档。
 
 **难度**：中
+
+**导师**：[@cleoold](https://github.com/cleoold)
 
 **产出要求**
 
@@ -56,6 +60,8 @@ NoneBot 社区有幸作为开源社区参与了本次活动，下面列出了目
 目前 NoneBot v2 已支持 OneBot、Mirai HTTP API、钉钉协议，社区反馈有更多的平台需求，希望能在 NoneBot v2 获得更多的跨平台支持，提高机器人的便携性。同时，我们也希望随着新平台加入，提升现有 NoneBot v2 核心代码的平台通用性。
 
 **难度**：中
+
+**导师**：[@yanyongyu](https://github.com/yanyongyu)
 
 **产出要求**
 
@@ -85,6 +91,8 @@ NoneBot 社区有幸作为开源社区参与了本次活动，下面列出了目
 目前的 OneBot 标准的 v11 版本仍然与 QQ 平台有较多耦合，我们希望在 v12 去掉与 QQ 耦合的历史包袱，形成一个通用的、可扩展的、易于使用的同时易于实现的聊天机器人接口标准。
 
 **难度**：中
+
+**导师**：[@richardchien](https://github.com/richardchien)
 
 **产出要求**
 
