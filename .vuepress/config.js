@@ -2,6 +2,7 @@ module.exports = {
     title: 'NoneBot',
     description: '跨平台的 Python 异步聊天机器人开发框架',
     head: [
+        ['link', { rel: 'icon', href: '/icons/favicon.ico' }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
         ['meta', { name: 'theme-color', content: '#ffffff' }],
         ['meta', { name: 'application-name', content: 'NoneBot' }],
