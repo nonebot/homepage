@@ -43,5 +43,5 @@ footerWrap:
   - title: "QQ 群 (768887710)"
     link: https://jq.qq.com/?_wv=1027&k=5OFifDh
   - title: "Telegram 群"
-    link: https://t.me/joinchat/Ow7MSzaRDZAxM2Y1
+    link: https://t.me/cqhttp
 ---
