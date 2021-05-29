@@ -29,7 +29,9 @@ footerWrap:
   - title: NoneBot v2
     link: https://github.com/nonebot/nonebot2
   - title: OneBot 标准
-    link: https://onebot.page.moe/
+    link: https://github.com/botuniverse/onebot
+  - title: Bot Universe
+    link: https://github.com/botuniverse
 - headline: 资源
   items:
   - title: FAQ
@@ -42,6 +44,8 @@ footerWrap:
     link: https://discussions.nonebot.dev/
   - title: "QQ 群 (768887710)"
     link: https://jq.qq.com/?_wv=1027&k=5OFifDh
-  - title: "Telegram 群"
-    link: https://t.me/cqhttp
+  - title: Telegram
+    link: https://t.me/botuniverse
+  - title: Discord
+    link: https://discord.gg/6HvtbBhTep
 ---
