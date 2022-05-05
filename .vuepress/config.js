@@ -26,8 +26,8 @@ module.exports = {
                 link: '/'
             },
             {
-                text: '开源软件供应链点亮计划',
-                link: '/ospp.md'
+                text: '开源之夏 - 暑期 2022',
+                link: '/ospp-2022.md'
             },
             {
                 text: '论坛',
