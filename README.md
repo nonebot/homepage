@@ -2,13 +2,13 @@
 home: true
 heroImage: /logo.png
 actionBtn:
-  text: v1.x 文档
-  link: https://docs.nonebot.dev/
+  text: v2.x 文档 (rc)
+  link: https://v2.nonebot.dev/
   type: primary
   size: large
 preactionBtn:
-  text: v2.x 文档 (beta)
-  link: https://v2.nonebot.dev/
+  text: v1.x 文档
+  link: https://docs.nonebot.dev/
   type: primary
   ghost: true
   size: large
